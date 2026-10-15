@@ -1,0 +1,6 @@
+{
+  "name": "EmailCheck Pro",
+  "description": "High-accuracy email validation SaaS platform with single and bulk verification, DNS/MX lookups, disposable email detection, detailed quality scoring, and CSV/Excel exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
